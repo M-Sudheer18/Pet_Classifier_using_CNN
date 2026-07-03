@@ -20,7 +20,7 @@
 ## 🌐 Live Demo
 
 ### 🚀 Streamlit App
-**https://YOUR-STREAMLIT-APP.streamlit.app**
+**https://petclassifier.streamlit.app/**
 
 ### 🤗 Hugging Face Model
 **https://huggingface.co/Sudheer17/AI_Pet_Classifier**
