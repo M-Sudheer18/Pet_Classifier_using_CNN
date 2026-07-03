@@ -95,7 +95,7 @@ if uploaded_file:
     st.image(
         display_img,
         caption="Uploaded Image",
-        width="stretch"
+        use_container_width=True
     )
 
     # Prediction 
